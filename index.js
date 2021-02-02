@@ -3,7 +3,7 @@
  * Copyright (c) 2021 Muhammad Nurcahyo Pratomo
  *
  * Dual licensed under the MIT and GPL licenses:
- * 	http://www.opensource.org/licenses/mit-license.php
+ * 	https://choosealicense.com/licenses/mit/
  * 	http://www.gnu.org/licenses/gpl.html
  *
  */
