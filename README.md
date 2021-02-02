@@ -26,7 +26,6 @@ or
 muhammad nurcahyo pratomo (jowo kece)
 ```
 ## License
-This code is licensed under the MIT
-[MIT](https://choosealicense.com/licenses/mit/) License
+This code is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
 and GNU General Public License
 [GPL](http://www.gnu.org/licenses/gpl.html)
