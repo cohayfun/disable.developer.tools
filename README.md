@@ -23,7 +23,7 @@ or
 ```
 ## Authors
 ```html
-muhammad nurcahyo pratomo
+muhammad nurcahyo pratomo (jowo kece)
 ```
 ## License
 This code is licensed under the MIT License
