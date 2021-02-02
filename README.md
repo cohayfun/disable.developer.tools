@@ -17,9 +17,13 @@ or
 ```html
 <html>
 <head>
-<script type="javascript" src="https://raw.githubusercontent.com/cohayfun/disable.developer.tools/main/index.js"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/cohayfun/disable.developer.tools/main/index.js"></script>
 </head>
 </html>
+```
+## Authors
+```html
+muhammad nurcahyo pratomo
 ```
 ## License
 This code is licensed under the MIT License
