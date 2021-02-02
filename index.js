@@ -1,5 +1,5 @@
 /*
- * Disable developer tool like (elements, console, source, application, network, etc) and deadloack injection browser
+ * Disable developer tool like (elements, console, source, application, network, etc) and deadlock injection browser
  * Copyright (c) 2021 Muhammad Nurcahyo Pratomo
  *
  * Dual licensed under the MIT and GPL licenses:
